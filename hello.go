@@ -7,6 +7,6 @@ import (
 )
 
 func main(){
-	fmt.Println("Niaje Munene");
+	fmt.Println("hello Munene");
 	fmt.Println(quote.Go());
 }
